@@ -1,0 +1,4 @@
+net "B0" loc = "H13";
+
+net "LED0" loc = "J14";
+
